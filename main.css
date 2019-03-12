@@ -1,3 +1,24 @@
 body {
     background-color: lightblue;
 }
+
+
+#pie {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    text-align: center;
+;
+}
+
+.card {
+    border: 2px solid black;
+    width: 30%;
+    color: white;
+}
+
+.card img {
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
