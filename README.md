@@ -2,7 +2,7 @@
 Makes an array of Pie(s).
 
 ## Screenshot 
-![Image of Pie]()
+![Image of Pie](https://raw.githubusercontent.com/silvestreluna/pie/master/images/Pie.png)
 
 
 ## Getting Started
