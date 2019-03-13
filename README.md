@@ -11,16 +11,16 @@ Makes an array of Pie(s).
     nss-evening-cohort-9/pie/
 ```
 
-## Prerequisites
+## Prerequisites  
 ```
     $npm install -g http-server
 ```
 
 ## Running
 Browse to pie directory and run http
-server
+server.
 
 ```
     $ hs -p 5000
 ```
-in your web browser navigate to 'localhost:5000'
+Then, in your browser, Copy and Paste "localhost:5000". 
