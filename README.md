@@ -7,8 +7,7 @@ Makes an array of Pie(s).
 
 ## Getting Started
 ``` 
-    $git clone https://github.com/
-    nss-evening-cohort-9/pie/
+    $git clone https://github.com/silvestreluna/pie
 ```
 
 ## Prerequisites  
